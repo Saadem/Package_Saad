@@ -1,0 +1,12 @@
+exportPattern("^[[:alpha:]]+")
+S3method(print, stats_var_num)
+S3method(summary, stats_var_num)
+S3method(print, stats_fact)
+S3method(summary, stats_fact)
+S3method(summary, overview_df)
+S3method(print, prix_estime)
+#' @importFrom stats lm predict
+importFrom("stats", "lm", "predict")
+#' @importFrom stats quantile sd
+importFrom("stats", "quantile", "sd")
+
