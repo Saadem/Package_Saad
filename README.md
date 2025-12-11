@@ -1,4 +1,4 @@
-# STT-Descriptives : Analyse Descriptive pour R
+ CREATION D'UN PACKAGE EN R
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![R Version](https://img.shields.io/badge/R-4.4.1-blue)
@@ -100,4 +100,4 @@ calcul_specifique(penguins)
 ```
 ---
 # Installation depuis le fichier source
-install.packages("STTDescriptives_1.0.tar.gz", repos = NULL, type = "source")
+install.packages("Package.tar.gz", repos = NULL, type = "source")
